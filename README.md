@@ -40,4 +40,15 @@ incidence.
   <p align = "center">
   <img src = "https://user-images.githubusercontent.com/72241737/150309685-f163d411-a227-4e7e-80b0-e21de42807fd.png">
 </p>
+<p align="left">
+  <h3 align="center">Data-set</h3>
+  <p>The data has been collected from a drug company which was uploaded in Kaggle
+that contains labelled data set of the drugs and the parameters that effect it. 
+Therefore, on the basis of the disease and the type of patient the drug is 
+recommended. The parameters are age, sex, gender, blood pressure, cholesterol 
+level and Na-K concentration. The dataset contains 200 rows and 6 columns. The 
+categories (independent variable) were 5 drugs (Captopril, Digoxin, Atropine, 
+Theophilline, Isoprenaline)</p>
+<p align = "center"> <img src = "https://user-images.githubusercontent.com/72241737/150310333-44c6b932-3446-4ea7-9c7f-1224eb5366a9.png"></p>
+
 
