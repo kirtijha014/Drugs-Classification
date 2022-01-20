@@ -32,8 +32,9 @@ main uses of logistic regression in medical data are usually divided into the
 following two points: finding the main influencing factors and predicting the 
 incidence.
   </p>
-  
+  <p>
  <img src = "https://user-images.githubusercontent.com/72241737/150309000-5f26a8e9-1cc8-4abc-8b97-e1edb2eda174.png")>
+  </p>
 <p align="left">
   <h3 align="center">Languages and  Tools Used</h3>
 
